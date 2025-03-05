@@ -53,8 +53,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           },
           {
@@ -170,13 +170,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Abrir selector rápido": true,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": true,
-      "command-palette:Abrir paleta de comandos": true
+      "command-palette:Abrir paleta de comandos": true,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "b147a0a25926bf79",
