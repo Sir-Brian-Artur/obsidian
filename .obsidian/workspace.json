@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes Programación/JavaScript/02 Tipos de datos.md",
+                "file": "Lenguajes Programación/JavaScript/Objeto_Clase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Tipos de datos"
+              "title": "Objeto_Clase"
             }
           }
         ]
@@ -179,15 +179,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b147a0a25926bf79",
+  "active": "5edd05ab85fcf18d",
   "lastOpenFiles": [
+    "Lenguajes Programación/JavaScript/Clase.md",
+    "Lenguajes Programación/JavaScript/Objeto_Clase.md",
+    "1201a type any (1).svg",
+    "Lenguajes Programación/JavaScript/06 Métodos.md",
+    "Lenguajes Programación/JavaScript/Array.md",
+    "Lenguajes Programación/JavaScript/Bucle DO-WHILE.md",
+    "03010311a.svg",
+    "Lenguajes Programación/JavaScript/Bucle FOR.md",
+    "03010310a.svg",
+    "Lenguajes Programación/JavaScript/While.md",
+    "03010309a (1).svg",
+    "Lenguajes Programación/JavaScript/Switch.md",
+    "03010308a.svg",
+    "Lenguajes Programación/JavaScript/Operadores.md",
+    "Lenguajes Programación/JavaScript/Condicional IF_ELSE.md",
+    "Lenguajes Programación/JavaScript/Condicional IF.md",
+    "assets/1201a type any.svg",
+    "assets/03010307a.svg",
+    "Lenguajes Programación/JavaScript/04 Funciones.md",
+    "Lenguajes Programación/JavaScript/03 Conversión de tipos.md",
+    "Lenguajes Programación/JavaScript/02 Tipos de datos.md",
+    "Lenguajes Programación/JavaScript/01 Variables.md",
+    "assets/03010306a.svg",
+    "assets/Pasted image 20250305102420.png",
+    "assets/Pasted image 20250305102407.png",
+    "Lenguajes Programación/JavaScript/05 Objetos.md",
     "journals/2025_02_25.md",
     "journals/2025-03-02.md",
-    "Lenguajes Programación/JavaScript/01 Variables.md",
-    "Lenguajes Programación/JavaScript/02 Tipos de datos.md",
-    "Lenguajes Programación/JavaScript/03 Conversión de tipos.md",
-    "Lenguajes Programación/JavaScript/04 Funciones.md",
-    "Lenguajes Programación/JavaScript/05 Objetos.md",
     "Lenguajes Programación/MySQL",
     "Lenguajes Programación/JavaScript",
     "Lenguajes Programación/Java",
@@ -205,14 +226,6 @@
     "Sin título.canvas",
     "Excalidraw",
     "journals/2025_02_20.md",
-    "journals/2025_02_21.md",
-    "journals/2025_02_22.md",
-    "pages/Tipos de datos en Javascript.md",
-    "pages/tareas.md",
-    "pages/buenas practicas.md",
-    "pages/contents.md",
-    "pages/DWEC - UF1841.md",
-    "pages/excalidraw-2025-02-23-18-24-20.md",
-    "pages/excalidraw-library-items-storage.md"
+    "journals/2025_02_21.md"
   ]
 }

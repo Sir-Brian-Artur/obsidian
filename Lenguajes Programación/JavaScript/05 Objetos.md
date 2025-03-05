@@ -90,7 +90,7 @@ console.log(item3.calcularTotal())  // 48.4
 Un MÉTODO es una FUN. , guardada en un atributo, dentro de un objeto. Para ejecutarlo tenemos que entrar en él. "OBJ + . + ATRI + ()"
 
 ## This
-Debemos emplear el `this` si queremos hacer la operación con los valores guardados dentro del OBJ. Para `this` no valen las `( )=>{ }` , por lo que empleamos `FUN ()`.
+Debemos emplear el `this` si queremos hacer la operación con los valores guardados dentro del OBJ. Para `this` no valen las *funciones flecha* , por lo que empleamos `FUN ()`.
 ```javascript
 const IVA_GENERAL = 1.21;       
 const IVA_REDUCIDO = 1.10;      
@@ -99,13 +99,13 @@ const item1 = {                      
     precio: 15,                       
     cantidad: 2,                      
     impuestos: IVA_GENERAL,
-    calcularTotal: function () {                                
+    calcularTotal: function () {   // NO ()=>{}
         return this.precio * this.cantidad * this.impuestos    
     }                                                          
 };
 ```
 
-"this" e "item2" hacen referencia al mismo ámbito. Sin el "this" podemos usar las "()=>{}". Pero es una mala práctica porque deja de ser escalable.
+`this` e `item2` hacen referencia al mismo ámbito. Sin el `this` podemos usar las `()=>{}`. Pero es una ***mala práctica*** porque deja de ser escalable.
 ```javascript
 const item2 = {                         
     precio: 25,                         
@@ -115,24 +115,21 @@ const item2 = {                        
         return item2.precio * item2.cantidad * item2.impuestos
     }
 };
+```
 
-  
-
+Acordarse de hacer la ejecución y no sólo mostrar la función.
+```js
 const factura = {                      
-
     item1,                            
-
     item2,                              
-
     calcularTotal: function (descuento) {
-
         return (this.item1.calcularTotal() + this.item2.calcularTotal()) * descuento;  
-
     }
-
-}                   //Acordarse de hacer la ejecución y no sólo mostrar la funcion
-
-  
+}                  
 
 console.log(factura.calcularTotal(0.8))
 ```
+
+
+![[Pasted image 20250305094851.png]]
+

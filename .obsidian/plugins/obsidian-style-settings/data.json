@@ -38,11 +38,16 @@
   "blue-topaz-theme@@rainbow-checklist": true,
   "blue-topaz-theme@@full-width-backlinks": true,
   "Blue-Topaz-Codebox-Highlight@@muted-code-activeline-bg": false,
-  "Blue-Topaz-Codebox-Highlight@@background-code@@dark": "#2B2C32",
-  "Blue-Topaz-Codebox-Highlight@@code-active-line-background-color@@dark": "#353A50",
-  "Blue-Topaz-Codebox-Highlight@@code-selection-background@@dark": "#334699",
+  "Blue-Topaz-Codebox-Highlight@@background-code@@dark": "#1C1C1C",
+  "Blue-Topaz-Codebox-Highlight@@code-active-line-background-color@@dark": "#2B3048",
+  "Blue-Topaz-Codebox-Highlight@@code-selection-background@@dark": "#495281",
   "blue-topaz-theme@@plain-file-title": true,
-  "Blue-Topaz-Codebox-Highlight@@font-weight-inline-code": "700",
-  "Blue-Topaz-Codebox-Highlight@@text-color-code@@dark": "#B05151",
-  "Blue-Topaz-Codebox-Highlight@@background-code-2@@dark": "#25272A"
+  "Blue-Topaz-Codebox-Highlight@@font-weight-inline-code": "600",
+  "Blue-Topaz-Codebox-Highlight@@text-color-code@@dark": "#D04646",
+  "Blue-Topaz-Codebox-Highlight@@background-code-2@@dark": "#1C1C1C",
+  "blue-topaz-theme@@background-primary-bg-4-bt@@dark": "#151515",
+  "blue-topaz-theme@@background-primary-alt-bg-4-bt@@dark": "#141414",
+  "blue-topaz-theme@@background-secondary-bg-4-bt@@dark": "#0E0E0E",
+  "blue-topaz-theme@@background-secondary-alt-bg-4-bt@@dark": "#050505",
+  "blue-topaz-theme@@background-modifier-border@@dark": "#7A7A7A"
 }
