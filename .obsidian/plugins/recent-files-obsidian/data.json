@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "04 Funciones",
+      "path": "Lenguajes Programación/JavaScript/04 Funciones.md"
+    },
+    {
+      "basename": "03 Conversión de tipos",
+      "path": "Lenguajes Programación/JavaScript/03 Conversión de tipos.md"
+    },
+    {
+      "basename": "Condicional IF_ELSE",
+      "path": "Lenguajes Programación/JavaScript/Condicional IF_ELSE.md"
+    },
+    {
+      "basename": "Operadores",
+      "path": "Lenguajes Programación/JavaScript/Operadores.md"
+    },
+    {
       "basename": "Objeto_Clase",
       "path": "Lenguajes Programación/JavaScript/Objeto_Clase.md"
     },
@@ -29,28 +45,12 @@
       "path": "Lenguajes Programación/JavaScript/Switch.md"
     },
     {
-      "basename": "Operadores",
-      "path": "Lenguajes Programación/JavaScript/Operadores.md"
-    },
-    {
-      "basename": "Condicional IF_ELSE",
-      "path": "Lenguajes Programación/JavaScript/Condicional IF_ELSE.md"
-    },
-    {
       "basename": "Condicional IF",
       "path": "Lenguajes Programación/JavaScript/Condicional IF.md"
     },
     {
       "basename": "1201a type any",
       "path": "assets/1201a type any.svg"
-    },
-    {
-      "basename": "04 Funciones",
-      "path": "Lenguajes Programación/JavaScript/04 Funciones.md"
-    },
-    {
-      "basename": "03 Conversión de tipos",
-      "path": "Lenguajes Programación/JavaScript/03 Conversión de tipos.md"
     },
     {
       "basename": "02 Tipos de datos",
@@ -79,10 +79,6 @@
     {
       "basename": "2025_02_23",
       "path": "journals/2025_02_23.md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "Sin título.canvas"
     }
   ],
   "omittedPaths": [],
