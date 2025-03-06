@@ -14,7 +14,7 @@ saludar("Marcos", "Salgueiro");   // Hola Marcos Salgueiro
 ```
 
 ## Return
-Las funciones pueden tener varios valores de entrada, pero ***sólo 1 de salida***. Con el `RETURN` le indicamos a la función cuál es el valor que tiene que devolver. En principio sólo puede devolver un único valor; aunque *un objeto*, con varios valores en su interior, también es considerado un único valor.
+Las funciones pueden tener varios valores de entrada, pero **sólo 1 de salida**. Con el `RETURN` le indicamos a la función cuál es el valor que tiene que devolver. En principio sólo puede devolver un único valor; aunque *un objeto*, con varios valores en su interior, también es considerado un único valor.
 ```javascript
 function saludo2(nombre){
     return `Hola ${nombre}`

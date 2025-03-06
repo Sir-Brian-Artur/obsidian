@@ -49,5 +49,14 @@
   "blue-topaz-theme@@background-primary-alt-bg-4-bt@@dark": "#141414",
   "blue-topaz-theme@@background-secondary-bg-4-bt@@dark": "#0E0E0E",
   "blue-topaz-theme@@background-secondary-alt-bg-4-bt@@dark": "#050505",
-  "blue-topaz-theme@@background-modifier-border@@dark": "#7A7A7A"
+  "blue-topaz-theme@@background-modifier-border@@dark": "#7A7A7A",
+  "blue-topaz-theme@@accent-strong@@dark": "#C59B49",
+  "blue-topaz-theme@@accent-em@@dark": "#CE4DC1",
+  "blue-topaz-theme@@strong-em-color-1@@dark": "#63CAB5",
+  "blue-topaz-theme@@strong-em-color-2@@dark": "#5A6AD0",
+  "blue-topaz-theme@@img-grid": true,
+  "blue-topaz-theme@@image-border": true,
+  "blue-topaz-theme@@bt-colorful-titlebar": false,
+  "blue-topaz-theme@@hide-titlebar-close-btn": false,
+  "blue-topaz-theme@@highlight-style": "all-rounded-corners-highlight"
 }

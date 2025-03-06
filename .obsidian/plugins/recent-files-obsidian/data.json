@@ -5,6 +5,10 @@
       "path": "Lenguajes Programación/JavaScript/04 Funciones.md"
     },
     {
+      "basename": "Objeto_Clase",
+      "path": "Lenguajes Programación/JavaScript/Objeto_Clase.md"
+    },
+    {
       "basename": "03 Conversión de tipos",
       "path": "Lenguajes Programación/JavaScript/03 Conversión de tipos.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Operadores",
       "path": "Lenguajes Programación/JavaScript/Operadores.md"
-    },
-    {
-      "basename": "Objeto_Clase",
-      "path": "Lenguajes Programación/JavaScript/Objeto_Clase.md"
     },
     {
       "basename": "06 Métodos",
