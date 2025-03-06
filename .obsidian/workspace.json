@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8aac83f9dde1bcd",
+        "id": "f382f4493e59cfb3",
         "type": "tabs",
         "children": [
           {
-            "id": "5e4c69743a61a6ad",
+            "id": "0631203f6b5d0cf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lenguajes Programación/JavaScript/04 Funciones.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "04 Funciones"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -179,10 +175,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e4c69743a61a6ad",
+  "active": "5edd05ab85fcf18d",
   "lastOpenFiles": [
-    "Lenguajes Programación/JavaScript/Objeto_Clase.md",
+    "Lenguajes Programación/JavaScript/Clases.md",
+    "assets/1201e tipado debil 1.svg",
+    "assets/1201d objeto por partes 1.svg",
+    "assets/1201c objetoa partir de clase 1.svg",
+    "assets/1201b class 1.svg",
+    "assets/1201a type any 1.svg",
     "Lenguajes Programación/JavaScript/04 Funciones.md",
+    "Lenguajes Programación/JavaScript/Objeto_Clase.md",
     "Lenguajes Programación/JavaScript/03 Conversión de tipos.md",
     "Lenguajes Programación/JavaScript/Condicional IF_ELSE.md",
     "Lenguajes Programación/JavaScript/Operadores.md",
@@ -199,13 +201,8 @@
     "Lenguajes Programación/JavaScript/Switch.md",
     "assets/03010308a.svg",
     "Lenguajes Programación/JavaScript/Condicional IF.md",
-    "assets/1201a type any.svg",
-    "assets/03010307a.svg",
     "Lenguajes Programación/JavaScript/02 Tipos de datos.md",
     "Lenguajes Programación/JavaScript/01 Variables.md",
-    "assets/03010306a.svg",
-    "assets/Pasted image 20250305102420.png",
-    "assets/Pasted image 20250305102407.png",
     "Lenguajes Programación/JavaScript/05 Objetos.md",
     "journals/2025_02_25.md",
     "journals/2025-03-02.md",
@@ -225,7 +222,6 @@
     "journals/2025_02_23.md",
     "Sin título.canvas",
     "Excalidraw",
-    "journals/2025_02_20.md",
-    "journals/2025_02_21.md"
+    "journals/2025_02_20.md"
   ]
 }
