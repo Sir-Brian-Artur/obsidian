@@ -13,7 +13,7 @@ Antes de mostrarte recursos, quiero explicarte *cómo construí la regex paso a 
 | $         | *Fin de la cadena*                  | \d$ → Debe terminar en un número        |
 
 🔹 *Ejemplo práctico:*  
-^[XYZ]\d{7}$ significa:
+/^ [XYZ]\d{7}$/ significa:
 - Debe *comenzar* con X, Y o Z
 - Seguido de *exactamente 7 números*
 - *Nada más antes o después*  
