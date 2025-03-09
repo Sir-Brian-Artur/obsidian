@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes Programación/JavaScript/RegExp.md",
+                "file": "Utilitarismo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RegExp"
+              "title": "Utilitarismo"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes Programación/JavaScript/RegExp.md",
+                "file": "Utilitarismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de RegExp"
+              "title": "Enlaces entrantes de Utilitarismo"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2025_02_25.md",
+                "file": "Utilitarismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 2025_02_25"
+              "title": "Enlaces salientes de Utilitarismo"
             }
           },
           {
@@ -152,17 +152,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes Programación/JavaScript/RegExp.md",
+                "file": "Utilitarismo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de RegExp"
+              "title": "Esquema de Utilitarismo"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,46 +173,49 @@
       "switcher:Abrir selector rápido": true,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": true,
-      "command-palette:Abrir paleta de comandos": true,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "command-palette:Abrir paleta de comandos": true
     }
   },
   "active": "0631203f6b5d0cf7",
   "lastOpenFiles": [
-    "Lenguajes Programación/JavaScript/Objeto_Clase.md",
+    "Consecuencialismo.md",
+    "Utilitarismo.md",
+    "teoría ética.md",
+    "forma.md",
+    "Pasted Image 20250308192059_136.png",
+    "Lenguajes Programación/JavaScript/05 Objetos.md",
+    "journals/2025-03-02.md",
+    "journals/2025_02_25.md",
+    "journals/2025_02_24.md",
+    "journals/2025_02_22.md",
+    "Lenguajes Programación/JavaScript/Formulario HTML_JS.md",
+    "Lenguajes Programación/JavaScript/03 Conversión de tipos.md",
+    "Lenguajes Programación/JavaScript/02 Tipos de datos.md",
+    "Lenguajes Programación/JavaScript/01 Variables.md",
+    "Lenguajes Programación/JavaScript/06 Métodos.md",
+    "Lenguajes Programación/JavaScript/Bucle FOR.md",
+    "Lenguajes Programación/JavaScript/Bucle DO-WHILE.md",
+    "Lenguajes Programación/JavaScript/Array.md",
+    "assets/Drawing 2025-03-08 19.18.04.excalidraw 1.png",
+    "assets/Drawing 2025-03-08 19.18.04.excalidraw.png",
+    "assets/Pasted image 20250305102420.png",
+    "assets/Pasted image 20250305094851.png",
+    "assets/Pasted image 20250305102407.png",
+    "assets/Pasted image 20250305094552.png",
+    "assets/diagrama.png",
+    "Excalidraw/Drawing 2025-03-08 19.18.04.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-02 07.21.22.excalidraw.md",
     "Lenguajes Programación/JavaScript/RegExp.md",
+    "Lenguajes Programación/JavaScript/Objeto_Clase.md",
     "Lenguajes Programación/JavaScript/Condicional IF.md",
     "Lenguajes Programación/JavaScript/Condicional IF_ELSE.md",
-    "Lenguajes Programación/JavaScript/03 Conversión de tipos.md",
-    "Lenguajes Programación/JavaScript/05 Objetos.md",
-    "Lenguajes Programación/JavaScript/Array.md",
     "assets/Untitled.png",
     "Lenguajes Programación/Java/01 Configuración de proyecto en Java.md",
     "Lenguajes Programación/JavaScript/Clases.md",
     "Lenguajes Programación/Java",
     "Lenguajes Programación/JavaScript/Switch.md",
-    "Lenguajes Programación/JavaScript/01 Variables.md",
-    "Lenguajes Programación/JavaScript/Bucle FOR.md",
-    "Lenguajes Programación/JavaScript/Bucle DO-WHILE.md",
-    "Lenguajes Programación/JavaScript/06 Métodos.md",
     "assets/1201e tipado debil 1.svg",
-    "assets/1201d objeto por partes 1.svg",
-    "assets/1201c objetoa partir de clase 1.svg",
-    "assets/1201b class 1.svg",
-    "assets/1201a type any 1.svg",
-    "Lenguajes Programación/JavaScript/04 Funciones.md",
-    "Lenguajes Programación/JavaScript/Operadores.md",
-    "Lenguajes Programación/JavaScript/Clase.md",
-    "assets/1201a type any (1).svg",
-    "assets/03010311a.svg",
-    "assets/03010310a.svg",
-    "Lenguajes Programación/JavaScript/While.md",
-    "assets/03010309a (1).svg",
-    "Lenguajes Programación/JavaScript/02 Tipos de datos.md",
-    "journals/2025_02_25.md",
-    "journals/2025-03-02.md",
     "Lenguajes Programación/MySQL",
     "Lenguajes Programación/JavaScript",
     "Lenguajes Programación/Java",
@@ -222,12 +224,7 @@
     "Lenguajes Programación/Spring",
     "Lenguajes Programación",
     "journals/carp",
-    "journals/2025_02_24.md",
-    "2025-03-02.md",
-    "carpeta/splice().md",
-    "Excalidraw/Drawing 2025-03-02 07.21.22.excalidraw.md",
     "assets/Untitled-2025-02-24-0623_1740374709666_0.excalidraw",
-    "journals/2025_02_23.md",
     "Sin título.canvas"
   ]
 }

@@ -34,7 +34,7 @@ console.log(plants);
 // Expected output: Array ["broccoli", "cauliflower", "cabbage", "kale"]
 ```
 
-## 04 FindIndex()
+# 04 FindIndex()
 
 El método **`findIndex()`** devuelve el **índice** del **primer elemento** de un array que cumpla con la función de prueba proporcionada. En caso contrario devuelve -1.
 
@@ -109,7 +109,7 @@ console.log(check);
 | --------- | ------------------------------------------------ |
 
 ## Every
-Determina si todos los elementos en el array satisfacen una condición.
+Determina si todos los *elementos* en el array satisfacen una ==condición.==
 
 ```jsx
 const isBelowThreshold = (currentValue) => currentValue < 40;

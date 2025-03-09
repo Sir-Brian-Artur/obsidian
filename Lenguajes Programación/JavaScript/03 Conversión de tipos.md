@@ -4,13 +4,12 @@ En JavaScript y en otros lenguajes de tipado dinámico, realizar operaciones ent
 ``` javascript
 let resultado = "2" + 2;        // --> "22"
 ```
-
 Al querer hacer la multiplicación como no es posible multiplicar `STRING`, lo pasa nuevamente a `NUMBER`.
 ```javascript
 resultado *= 2;             // --> 44
 ```
-
 ## Implícita
+
 ```javascript
 const cadena = "5";
 const numero = 5;

@@ -1,4 +1,4 @@
-Los OJBETOS, normalmente los albergamos en constantes porque no los vamos a modificar por completo. Tan sólo vamos a querer alterar alguna de sus propiedades
+Los OBJETOS, normalmente los albergamos en constantes porque no los vamos a modificar por completo. Tan sólo vamos a querer alterar alguna de sus propiedades
 ```javascript
 const persona = {           
     nombre: 'Carmen',      

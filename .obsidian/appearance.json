@@ -1,7 +1,9 @@
 {
-  "cssTheme": "Blue Topaz",
-  "accentColor": "",
-  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "accentColor": "#875dc6",
+  "baseFontSize": 18,
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "monospaceFontFamily": "Fira code",
+  "baseFontSizeAction": false
 }
