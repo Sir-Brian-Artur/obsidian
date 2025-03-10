@@ -3,3 +3,7 @@ Es la [[teoría ética]] cuyo objetivo es *maximizar* el **placer** y ***minimiz
 Este es otro `párrafo`.
 
 Hay que dejar espacios de una línea entre cada párrafo.
+
+![[Formulario.webp|580]]
+
+![[form-listener.svg]]![[listener.svg]]![[domElement.svg]]
