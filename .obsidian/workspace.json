@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes Programación/JavaScript/addEvenListener().md",
+                "file": "Lenguajes Programación/JavaScript/04 Funciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "addEvenListener()"
+              "title": "04 Funciones"
             }
           }
         ],
@@ -192,7 +192,19 @@
   },
   "active": "fe48eaa4c4c81f96",
   "lastOpenFiles": [
+    "assets/Formulario.webp",
+    "Lenguajes Programación/JavaScript/04 Funciones.md",
+    "Lenguajes Programación/JavaScript/05 Objetos.md",
+    "Lenguajes Programación/JavaScript/Formulario básico/Formulario básico.md",
     "Lenguajes Programación/JavaScript/Formulario HTML_JS.md",
+    "Lenguajes Programación/JavaScript/Formulario básico",
+    "svg/arrayVacio.svg",
+    "svg",
+    "Nueva carpeta",
+    "Lenguajes Programación/JavaScript/Condicional IF_ELSE.md",
+    "Lenguajes Programación/JavaScript/Condicional IF.md",
+    "Utilitarismo.md",
+    "Lenguajes Programación/JavaScript/03 Conversión de tipos.md",
     "Lenguajes Programación/JavaScript/addEvenListener().md",
     "Lenguajes Programación/JavaScript/Bucle FOR.md",
     "Lenguajes Programación/JavaScript/Bucle DO-WHILE.md",
@@ -205,18 +217,13 @@
     "assets/Pasted image 20250305102420.png",
     "rfw.md",
     "Consecuencialismo.md",
-    "Utilitarismo.md",
-    "Lenguajes Programación/JavaScript/05 Objetos.md",
     "Lenguajes Programación/JavaScript/06 Métodos.md",
-    "Lenguajes Programación/JavaScript/03 Conversión de tipos.md",
     "Lenguajes Programación/JavaScript/02 Tipos de datos.md",
     "Lenguajes Programación/JavaScript/01 Variables.md",
     "teoría ética.md",
     "assets/listener.svg",
     "assets/form-listener.svg",
-    "assets/Formulario.webp",
     "assets/1201c objetoa partir de clase 1.svg",
-    "assets/1201b class 1.svg",
     "assets/Formulario",
     "Diagrama.drawio",
     "forma.md",
@@ -226,18 +233,10 @@
     "journals/2025_02_22.md",
     "Excalidraw/Drawing 2025-03-08 19.18.04.excalidraw.md",
     "Excalidraw/Drawing 2025-03-02 07.21.22.excalidraw.md",
-    "Lenguajes Programación/JavaScript/RegExp.md",
-    "Lenguajes Programación/JavaScript/Objeto_Clase.md",
-    "Lenguajes Programación/JavaScript/Condicional IF.md",
-    "Lenguajes Programación/JavaScript/Condicional IF_ELSE.md",
-    "Lenguajes Programación/Java/01 Configuración de proyecto en Java.md",
     "Lenguajes Programación/Java",
     "Lenguajes Programación/MySQL",
     "Lenguajes Programación/JavaScript",
     "Lenguajes Programación/Java",
-    "Lenguajes Programación/Angular",
-    "Lenguajes Programación/CSS",
-    "Lenguajes Programación/Spring",
-    "Lenguajes Programación"
+    "Lenguajes Programación/Angular"
   ]
 }

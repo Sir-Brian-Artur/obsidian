@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "addEvenListener()",
-      "path": "Lenguajes Programación/JavaScript/addEvenListener().md"
+      "basename": "04 Funciones",
+      "path": "Lenguajes Programación/JavaScript/04 Funciones.md"
+    },
+    {
+      "basename": "Formulario",
+      "path": "assets/Formulario.webp"
+    },
+    {
+      "basename": "05 Objetos",
+      "path": "Lenguajes Programación/JavaScript/05 Objetos.md"
+    },
+    {
+      "basename": "Formulario básico",
+      "path": "Lenguajes Programación/JavaScript/Formulario básico/Formulario básico.md"
     },
     {
       "basename": "Formulario HTML_JS",
       "path": "Lenguajes Programación/JavaScript/Formulario HTML_JS.md"
+    },
+    {
+      "basename": "Condicional IF_ELSE",
+      "path": "Lenguajes Programación/JavaScript/Condicional IF_ELSE.md"
+    },
+    {
+      "basename": "Condicional IF",
+      "path": "Lenguajes Programación/JavaScript/Condicional IF.md"
+    },
+    {
+      "basename": "Utilitarismo",
+      "path": "Utilitarismo.md"
+    },
+    {
+      "basename": "03 Conversión de tipos",
+      "path": "Lenguajes Programación/JavaScript/03 Conversión de tipos.md"
+    },
+    {
+      "basename": "addEvenListener()",
+      "path": "Lenguajes Programación/JavaScript/addEvenListener().md"
     },
     {
       "basename": "Bucle FOR",
@@ -19,10 +51,6 @@
     {
       "basename": "Array",
       "path": "Lenguajes Programación/JavaScript/Array.md"
-    },
-    {
-      "basename": "Formulario",
-      "path": "assets/Formulario.webp"
     },
     {
       "basename": "Espacio de trabajo",
@@ -53,20 +81,8 @@
       "path": "Consecuencialismo.md"
     },
     {
-      "basename": "Utilitarismo",
-      "path": "Utilitarismo.md"
-    },
-    {
-      "basename": "05 Objetos",
-      "path": "Lenguajes Programación/JavaScript/05 Objetos.md"
-    },
-    {
       "basename": "06 Métodos",
       "path": "Lenguajes Programación/JavaScript/06 Métodos.md"
-    },
-    {
-      "basename": "03 Conversión de tipos",
-      "path": "Lenguajes Programación/JavaScript/03 Conversión de tipos.md"
     },
     {
       "basename": "02 Tipos de datos",
@@ -121,14 +137,6 @@
       "path": "Lenguajes Programación/JavaScript/Objeto_Clase.md"
     },
     {
-      "basename": "Condicional IF",
-      "path": "Lenguajes Programación/JavaScript/Condicional IF.md"
-    },
-    {
-      "basename": "Condicional IF_ELSE",
-      "path": "Lenguajes Programación/JavaScript/Condicional IF_ELSE.md"
-    },
-    {
       "basename": "Untitled",
       "path": "assets/Untitled.png"
     },
@@ -147,10 +155,6 @@
     {
       "basename": "1201e tipado debil 1",
       "path": "assets/1201e tipado debil 1.svg"
-    },
-    {
-      "basename": "04 Funciones",
-      "path": "Lenguajes Programación/JavaScript/04 Funciones.md"
     },
     {
       "basename": "Operadores",

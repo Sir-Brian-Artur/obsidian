@@ -1,0 +1,23 @@
+
+em {
+    color: rgb(133, 218, 116);
+    font-style: italic; /* Mantener el estilo cursiva */
+}
+
+
+strong {
+    color: rgb(195, 116, 207);
+    font-weight: bold; /* Mantener el estilo negrita */
+}
+
+strong em, em strong, strong em *, em strong * {
+    color: rgb(107, 193, 240);
+    font-style: italic; /* Mantener el estilo cursiva */
+    font-weight: bold; /* Mantener el estilo negrita */
+}
+
+span.highlight {
+    background-color: yellow;
+    padding: 1px;
+    border-radius: 3px;
+  }

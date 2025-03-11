@@ -4,6 +4,8 @@ Este es otro `párrafo`.
 
 Hay que dejar espacios de una línea entre cada párrafo.
 
-![[Formulario.webp|580]]
+![alt](/assets/03010307a.svg)
+
+
 
 ![[form-listener.svg]]![[listener.svg]]![[domElement.svg]]
