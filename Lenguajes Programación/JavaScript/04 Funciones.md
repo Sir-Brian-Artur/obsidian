@@ -58,7 +58,7 @@ const saludar2 = function (nombre){      
 
 Invoco a la constante como si fuese una función; ya que se convierte en ello.
 ```javascript
-const resultado = saludar2('Pablo');     
+const resultado = saludar2 ('Pablo');     
 console.log(resultado);     // hola Pablo, qué tal?           
 ```
 

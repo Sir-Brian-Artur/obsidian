@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0631203f6b5d0cf7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Formulario.webp"
-              },
-              "icon": "lucide-image",
-              "title": "Formulario"
-            }
-          },
-          {
             "id": "fe48eaa4c4c81f96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes Programación/JavaScript/04 Funciones.md",
+                "file": "03-14/Clase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Funciones"
+              "title": "Clase"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +180,9 @@
   "active": "fe48eaa4c4c81f96",
   "lastOpenFiles": [
     "assets/Formulario.webp",
+    "03-14/Clase.md",
     "Lenguajes Programación/JavaScript/04 Funciones.md",
+    "03-14",
     "Lenguajes Programación/JavaScript/05 Objetos.md",
     "Lenguajes Programación/JavaScript/Formulario básico/Formulario básico.md",
     "Lenguajes Programación/JavaScript/Formulario HTML_JS.md",
@@ -232,11 +221,9 @@
     "journals/2025_02_24.md",
     "journals/2025_02_22.md",
     "Excalidraw/Drawing 2025-03-08 19.18.04.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-02 07.21.22.excalidraw.md",
     "Lenguajes Programación/Java",
     "Lenguajes Programación/MySQL",
     "Lenguajes Programación/JavaScript",
-    "Lenguajes Programación/Java",
-    "Lenguajes Programación/Angular"
+    "Lenguajes Programación/Java"
   ]
 }
