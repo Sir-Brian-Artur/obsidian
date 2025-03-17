@@ -79,7 +79,10 @@ El método **`splice()`** cambia el contenido de un array eliminando elementos
     // myFish is ["angel", "clown", "drum", "sturgeon"]
     ```
 
-## Includes
+## 06 Includes
+
+El `includes()` método comprueba si una matriz contiene un elemento específico o no.
+
 ```jsx
 // defining an array
 let languages = ["JavaScript", "Java", "C"];
@@ -92,16 +95,15 @@ console.log(check);
 // Output: true
 ```
 
-**El `includes()`método comprueba si una matriz contiene un elemento específico o no.**
-
 ### Sintaxis
-`*array*.includes(*element*, *start*)`
+
+`array.includes(element, start)`
 
 ### Parámetros
 
-| _element_ | Required.The value to search for.      |
-| --------- | -------------------------------------- |
-| _start_   | Optional.Start position. Default is 0. |
+| _element_ | Required | The value to search for       |
+| --------- | -------- | ----------------------------- |
+| _start_   | Optional | Start position. Default is 0. |
 
 ### Valor devuelto
 

@@ -23,8 +23,6 @@
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
-    "encendido": "checkbox",
-    "Fuente": "date",
-    "check": "checkbox"
+    "Data": "date"
   }
 }

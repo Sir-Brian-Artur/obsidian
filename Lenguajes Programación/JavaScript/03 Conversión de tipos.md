@@ -1,13 +1,17 @@
 En JavaScript y en otros lenguajes de tipado dinámico, realizar operaciones entre valores de distinto tipo es posible. JavaScript va a convertir los 2 valores a un único tipo de valor común. Y a a intentar hacer esa operación siempre. Y lo va a hacer de una forma implícita.
 
 ##  Concatena el STRING con el NUMBER
+
 ``` javascript
 let resultado = "2" + 2;        // --> "22"
 ```
+
 Al querer hacer la multiplicación como no es posible multiplicar `STRING`, lo pasa nuevamente a `NUMBER`.
+
 ```javascript
 resultado *= 2;             // --> 44
 ```
+
 ## Implícita
 
 ```javascript
@@ -19,6 +23,7 @@ let indefinido;     //Los indefinidos los definiremos con LET
 ```
 
 `STRING` es el tipo más fuerte cuando estamos sumando. Por eso prevalece su tipo y se convierten a `STRING`.
+
 ```javascript
 cadena + numero     // --> "55"       
 console.log(cadena + boolean);    //
@@ -27,12 +32,13 @@ console.log(cadena + nulo);         //
 
 console.log(cadena + indefinido);   //
 ```
-`TRUE` pasa a 1, al igual que `FALSE` pasaríaa 0
+`TRUE` pasa a 1, al igual que `FALSE` pasaría a 0
 ```javascript
 console.log(numero + boolean);
 ```
 
-`NULL` siempre se converte a 0
+`NULL` siempre se convierte a 0
+
 ```javvascript
 console.log(numero + nulo);         
 ```

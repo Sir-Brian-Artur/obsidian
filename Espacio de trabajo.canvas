@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"7d0fe26378142893","type":"group","x":-40,"y":-280,"width":940,"height":440,"label":"Grupo sin título"},
-		{"id":"9b2a9a636e63e617","x":-425,"y":-707,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=UyYhcuv96bs"},
+		{"id":"9b2a9a636e63e617","type":"link","url":"https://www.youtube.com/watch?v=UyYhcuv96bs","x":-425,"y":-707,"width":640,"height":360},
 		{"id":"efdbc034af96ce47","type":"file","file":"Lenguajes Programación/JavaScript/Array.md","x":-20,"y":-260,"width":400,"height":400},
 		{"id":"a27df9b094db9a4b","type":"file","file":"assets/Formulario.webp","x":480,"y":-193,"width":400,"height":266},
 		{"id":"cd1aa31af956dc79","type":"file","file":"assets/Pasted image 20250310141354.png","x":-20,"y":-740,"width":648,"height":160,"color":"4"}

@@ -1,4 +1,4 @@
-Una función es un tipo de dato que se utiliza para reutilizar código. Para no tener que copiar y pegar un montón de líneas de código, almacenamos ese código en una función; a la que más tarde invocaremos, cuando la necesitemos usar.
+Una [[función]] es un tipo de dato que se utiliza para `reutilizar` código. Para no tener que copiar y pegar un montón de ==líneas== de código, **almacenamos** ese *código* en una ***función***; a la que más tarde invocaremos, cuando la necesitemos usar.
 
 Entre los () colocamos los ARGUMENTOS. Entre las {} colocamos el código de la función que se ejecutará. 
 ```javascript
@@ -14,7 +14,9 @@ saludar("Marcos", "Salgueiro");   // Hola Marcos Salgueiro
 ```
 
 ## Return
-Las funciones pueden tener varios valores de entrada, pero **sólo 1 de salida**. Con el `RETURN` le indicamos a la función cuál es el valor que tiene que devolver. En principio sólo puede devolver un único valor; aunque *un objeto*, con varios valores en su interior, también es considerado un único valor.
+
+Las funciones pueden tener varios valores de entrada, pero **sólo 1 de salida**. Con el `return` le indicamos a la función cuál es el valor que tiene que devolver. En principio sólo puede devolver un único valor; aunque *un objeto*, con varios valores en su interior, también es considerado un único valor.
+
 ```javascript
 function saludo2(nombre){
     return `Hola ${nombre}`
@@ -22,6 +24,7 @@ function saludo2(nombre){
 ```
 
 Todo lo que devolvemos en la función, podemos *almacenarlo en una variable*. Luego podemos utilizar el valor de esa variable para otras operaciones.
+
 ```javascript
 const operacion = saludo2("Carlos");    
 console.log(operacion);   
@@ -37,19 +40,23 @@ function saludo3(nombre){    
     console.log('Después del return')   // NO se ejecuta
 }                       
 ```
+
 >Aparte del RETURN indicar qué debe devolver la función. También indica que la función termina. Todo lo que coloquemos después del `RETURN` no se va a ejecutar.
 
 ## Función Anónima
+
 Las funciones anónimas son aquellas que no tienen nombre. Lo que vamos a hacer es almacenarlas en una variable. Por lo que el nombre de esa función va a ser el nombre de la variable.
 
-### Función Nominal
+# Función Nominal
+
 ```javascript
 function saludar(nombre){                  
     return `hola ${nombre}, qué tal?`;
 };
 ```
 
-### Función Anónima (guardada en const)
+## Función Anónima (guardada en const)
+
 ```javascript
 const saludar2 = function (nombre){      
     return `hola ${nombre}, qué tal?`;
@@ -57,6 +64,7 @@ const saludar2 = function (nombre){      
 ```
 
 Invoco a la constante como si fuese una función; ya que se convierte en ello.
+
 ```javascript
 const resultado = saludar2 ('Pablo');     
 console.log(resultado);     // hola Pablo, qué tal?           
@@ -67,6 +75,7 @@ console.log(resultado);     // hola Pablo, qué tal?           
 ## Función en función
 
 1º. Creo STRING con PAR_1
+
 ```javascript
 const obtenerSaludo = function(nombre){      
     return `Hola ${nombre}!`;
@@ -74,6 +83,7 @@ const obtenerSaludo = function(nombre){      
 ```
 
 2aº. Imprimo por consola valor de PAR_2
+
 ```javascript
 const imprimirSaludo = function(mensaje){    
     console.log(mensaje);                       
@@ -81,6 +91,7 @@ const imprimirSaludo = function(mensaje){    
 ```
 
 2bº. Lanzo `alert` con valor de PAR_2
+
 ```javascript
 const alertSaludo = function(mensaje){          
     alert(mensaje);                          

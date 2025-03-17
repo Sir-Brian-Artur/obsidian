@@ -1,14 +1,9 @@
 {
-  "promptDelete": false,
-  "showInlineTitle": true,
-  "strictLineBreaks": true,
   "showLineNumber": true,
-  "readableLineLength": true,
-  "foldHeading": true,
   "foldIndent": true,
-  "alwaysUpdateLinks": true,
   "showIndentGuide": true,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "assets",
-  "propertiesInDocument": "visible"
+  "strictLineBreaks": true,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

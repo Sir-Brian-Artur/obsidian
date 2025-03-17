@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "4c6fd5479a243142",
+    "id": "3dd2a9f428bf7629",
     "type": "split",
     "children": [
       {
-        "id": "f382f4493e59cfb3",
+        "id": "808d62740373045f",
         "type": "tabs",
         "children": [
           {
-            "id": "fe48eaa4c4c81f96",
+            "id": "fff1e0b8aac58905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-14/Clase.md",
+                "file": "Clase/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase"
+              "title": "Sin título"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "11392c6110187fa4",
+    "id": "3aedad0382f19a77",
     "type": "split",
     "children": [
       {
-        "id": "068815631ced7016",
+        "id": "224ca63288e7fc32",
         "type": "tabs",
         "children": [
           {
-            "id": "5edd05ab85fcf18d",
+            "id": "f36faf4faf6e1a43",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,22 +48,22 @@
             }
           },
           {
-            "id": "a942bea8fa89e4c6",
+            "id": "dd66f7d2dc045e75",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "bookmarks",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           },
           {
-            "id": "3a787d4034f89d8f",
+            "id": "4b98006875ad913f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#UF1842",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,38 +73,27 @@
               "icon": "lucide-search",
               "title": "Buscar"
             }
-          },
-          {
-            "id": "80a500bac61b2148",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213.51103591918945
   },
   "right": {
-    "id": "57375c3ae5554852",
+    "id": "1728f24bac4b9c49",
     "type": "split",
     "children": [
       {
-        "id": "51b8c9fd108600b7",
+        "id": "81afaa140fa79e62",
         "type": "tabs",
         "children": [
           {
-            "id": "644af05671bd8810",
+            "id": "4b0123be90b9dca3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilitarismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Utilitarismo"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "b27caf111f68a5f8",
+            "id": "fe194342dadd0970",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilitarismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Utilitarismo"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "0c94b9685f54c712",
+            "id": "04edc2da19e30357",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,83 +135,79 @@
             }
           },
           {
-            "id": "5660efd333af4c23",
+            "id": "ba1e5f917866bcc6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilitarismo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Utilitarismo"
+              "title": "Esquema"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 354.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": true,
+      "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
-      "templates:Insertar plantilla": true,
-      "command-palette:Abrir paleta de comandos": true
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fe48eaa4c4c81f96",
+  "active": "fff1e0b8aac58905",
   "lastOpenFiles": [
-    "assets/Formulario.webp",
-    "03-14/Clase.md",
-    "Lenguajes Programación/JavaScript/04 Funciones.md",
-    "03-14",
-    "Lenguajes Programación/JavaScript/05 Objetos.md",
-    "Lenguajes Programación/JavaScript/Formulario básico/Formulario básico.md",
-    "Lenguajes Programación/JavaScript/Formulario HTML_JS.md",
-    "Lenguajes Programación/JavaScript/Formulario básico",
-    "svg/arrayVacio.svg",
-    "svg",
-    "Nueva carpeta",
-    "Lenguajes Programación/JavaScript/Condicional IF_ELSE.md",
-    "Lenguajes Programación/JavaScript/Condicional IF.md",
-    "Utilitarismo.md",
-    "Lenguajes Programación/JavaScript/03 Conversión de tipos.md",
-    "Lenguajes Programación/JavaScript/addEvenListener().md",
-    "Lenguajes Programación/JavaScript/Bucle FOR.md",
-    "Lenguajes Programación/JavaScript/Bucle DO-WHILE.md",
-    "Lenguajes Programación/JavaScript/Array.md",
-    "Espacio de trabajo.canvas",
-    "assets/Pasted image 20250305102407.png",
-    "assets/Pasted image 20250310120754.png",
-    "assets/Pasted image 20250310141354.png",
-    "assets/Pasted image 20250305094851.png",
-    "assets/Pasted image 20250305102420.png",
-    "rfw.md",
-    "Consecuencialismo.md",
+    "Clase/14.03.Vi.md",
+    "Clase/Sin título.md",
+    "Lenguajes Programación/JavaScript/split().md",
+    "Lenguajes Programación/JavaScript/RegExp.md",
+    "Lenguajes Programación/JavaScript/map().md",
     "Lenguajes Programación/JavaScript/06 Métodos.md",
+    "Lenguajes Programación/JavaScript/04 Funciones.md",
+    "Lenguajes Programación/JavaScript/Formulario HTML_JS.md",
+    "Lenguajes Programación/JavaScript/Objeto_Clase.md",
+    "Lenguajes Programación/JavaScript/Operadores.md",
+    "Lenguajes Programación/JavaScript/Switch.md",
+    "Lenguajes Programación/JavaScript/While.md",
+    "Lenguajes Programación/JavaScript/Bucle DO-WHILE.md",
+    "Lenguajes Programación/JavaScript/Bucle FOR.md",
+    "Lenguajes Programación/JavaScript/03 Conversión de tipos.md",
+    "svg/1741540830587.jpeg",
     "Lenguajes Programación/JavaScript/02 Tipos de datos.md",
     "Lenguajes Programación/JavaScript/01 Variables.md",
+    "Lenguajes Programación/Angular/Informacion-bruto.md",
+    "Lenguajes Programación/Ionic/Iniciación.md",
+    "Lenguajes Programación/Ionic",
+    "Excalidraw/draw.md",
+    "Excalidraw/sfhiuowerf.svg",
+    "Excalidraw/Drawing 2025-03-16 10.43.08.excalidraw.svg",
+    "Excalidraw/Nuevo nombre.svg",
+    "svg/arrayVacio.svg",
+    "Espacio de trabajo.canvas",
+    "assets/1201a type any 1.svg",
+    "assets/1201a type any (1).svg",
+    "assets/1201a type any.svg",
+    "assets/1201b class.svg",
+    "Consecuencialismo.md",
+    "Utilitarismo.md",
+    "2025-03-16.md",
+    "0002-03-14.md",
+    "Clase",
+    "Excalidraw/Drawing 2025-03-16 10.52.50.excalidraw.md",
     "teoría ética.md",
-    "assets/listener.svg",
-    "assets/form-listener.svg",
-    "assets/1201c objetoa partir de clase 1.svg",
-    "assets/Formulario",
-    "Diagrama.drawio",
-    "forma.md",
-    "journals/2025-03-02.md",
-    "journals/2025_02_25.md",
-    "journals/2025_02_24.md",
-    "journals/2025_02_22.md",
-    "Excalidraw/Drawing 2025-03-08 19.18.04.excalidraw.md",
-    "Lenguajes Programación/Java",
-    "Lenguajes Programación/MySQL",
-    "Lenguajes Programación/JavaScript",
-    "Lenguajes Programación/Java"
+    "Excalidraw/Drawing 2025-03-16 10.43.08.excalidraw.png",
+    "Excalidraw"
   ]
 }

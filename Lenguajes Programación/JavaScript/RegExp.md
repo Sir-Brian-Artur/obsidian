@@ -1,7 +1,4 @@
-
----
-
-## **📌 Desglose de la expresión regular /^[XYZ]\d{7}$/**
+## 📌 Desglose de la expresión regular /^[XYZ]\d{7}$/
 Antes de mostrarte recursos, quiero explicarte *cómo construí la regex paso a paso* usando una tabla de símbolos comunes.
 
 | *Símbolo* | *Significado*                       | *Ejemplo*                               |

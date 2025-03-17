@@ -1,9 +1,7 @@
 {
-  "cssTheme": "Minimal",
-  "accentColor": "#875dc6",
-  "baseFontSize": 18,
-  "showViewHeader": true,
+  "cssTheme": "Obsidian Nord",
+  "accentColor": "",
   "showRibbon": true,
-  "monospaceFontFamily": "Fira code",
-  "baseFontSizeAction": false
+  "showViewHeader": true,
+  "monospaceFontFamily": "JetBrains Mono"
 }
