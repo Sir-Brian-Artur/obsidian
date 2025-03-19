@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fff1e0b8aac58905",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/objetoNombre.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "objetoNombre"
-            }
-          },
-          {
-            "id": "b2e06062d492a3b6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/contextoMensaje.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "contextoMensaje"
-            }
-          },
-          {
-            "id": "e079815b18389aaf",
+            "id": "e04f58815b86a2fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,21 +20,8 @@
               "icon": "lucide-file",
               "title": "18.03.Ma"
             }
-          },
-          {
-            "id": "e04f58815b86a2fb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "svg/contextoMensaje.svg"
-              },
-              "icon": "lucide-image",
-              "title": "contextoMensaje"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,6 +158,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "handwritten-notes:Create empty handwritten note": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -204,24 +169,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e079815b18389aaf",
+  "active": "e04f58815b86a2fb",
   "lastOpenFiles": [
+    "Guía_rápida_UF1843_espanol.pdf",
+    "Pasted image 20250318130356.png",
+    "Pasted Image 20250318123552_682.png",
+    "Pasted Image 20250318122021_144.png",
+    "Clase/18.03.Ma.md",
+    "Clase/17.03.Lu.md",
+    "svg/resetStage.svg",
+    "svg/objetoNombre.svg",
+    "svg/contextoMensaje.svg",
+    "svg/Ruta con espacios.svg",
     "Excalidraw/objetoNombre.md",
     "Excalidraw/contextoMensaje.md",
-    "svg/contextoMensaje.svg",
-    "Excalidraw/draw.svg",
-    "Excalidraw/Dónde está Git.svg",
-    "Excalidraw/Ruta con espacios.svg",
-    "svg/Ruta con espacios.svg",
-    "Excalidraw/resetStage.svg",
-    "svg/resetStage.svg",
-    "Clase/18.03.Ma.md",
-    "svg/objetoNombre.svg",
-    "Clase/14.03.Vi.md",
     "Excalidraw/arrayNombre.svg",
-    "Pasted image 20250318130356.png",
-    "Clase/17.03.Lu.md",
-    "Guía_rápida_UF1843_espanol.pdf",
+    "Excalidraw/Ruta con espacios.svg",
+    "Excalidraw/Draw 25-03-18 10.39.27.excalidraw.svg",
+    "pdf/Guía_rápida_UF1843_espanol.pdf",
+    "Clase/14.03.Vi.md",
+    "pdf",
     "svg/Dónde está Git.md",
     "Espacio de trabajo.canvas",
     "Lenguajes Programación/JavaScript/split().md",
