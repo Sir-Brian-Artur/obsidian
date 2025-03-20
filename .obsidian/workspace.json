@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "808d62740373045f",
+        "id": "d8ac722ca9cedefd",
         "type": "tabs",
         "children": [
           {
-            "id": "fff1e0b8aac58905",
+            "id": "ca82c67793690a1e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/objetoNombre.md"
+                "file": "Clase/git/git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "objetoNombre"
-            }
-          },
-          {
-            "id": "b2e06062d492a3b6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/contextoMensaje.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "contextoMensaje"
-            }
-          },
-          {
-            "id": "e079815b18389aaf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "93a48c537e34f967",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/gitMerge.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "gitMerge"
-            }
-          },
-          {
-            "id": "ff46d8a05664f230",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/rutas relativas.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "rutas relativas"
-            }
-          },
-          {
-            "id": "e04f58815b86a2fb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "svg/contextoMensaje.svg"
-              },
-              "icon": "lucide-image",
-              "title": "contextoMensaje"
+              "title": "git"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,16 +140,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clase/git/git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de git"
+            }
+          },
+          {
+            "id": "71744f9153c809b7",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -226,8 +180,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f36faf4faf6e1a43",
+  "active": "ca82c67793690a1e",
   "lastOpenFiles": [
+    "Clase/19.03.Mi.md",
+    "Clase/18.03.Ma.md",
+    "Clase/git/git.md",
+    "Clase/17.03.Lu.md",
+    "Clase/14.03.Vi.md",
+    "Clase/git",
+    "Clase/20.03.Ju.md",
+    "pdf/Guía_rápida_UF1843_espanol.pdf",
+    "Excalidraw/svg/Dónde está Git.md",
     "Excalidraw/svg/arrayVacio.svg",
     "Excalidraw/svg/arrayNombre.svg",
     "Excalidraw/svg/Ruta con espacios 1.svg",
@@ -243,15 +206,8 @@
     "Excalidraw/svg/contextoMensaje.svg",
     "Excalidraw/svg/git merge ort.svg",
     "Excalidraw/gitMerge.md",
-    "Excalidraw/svg/gitMerge.svg",
-    "Clase/19.03.Mi.md",
-    "Clase/18.03.Ma.md",
     "Guía_rápida_UF1843_espanol.pdf",
-    "pdf/Guía_rápida_UF1843_espanol.pdf",
     "pdf",
-    "Clase/14.03.Vi.md",
-    "Clase/17.03.Lu.md",
-    "Excalidraw/svg/Dónde está Git.md",
     "Espacio de trabajo.canvas",
     "Lenguajes Programación/JavaScript/split().md",
     "Lenguajes Programación/JavaScript/RegExp.md",
@@ -267,7 +223,6 @@
     "Lenguajes Programación/JavaScript/Bucle FOR.md",
     "Lenguajes Programación/JavaScript/03 Conversión de tipos.md",
     "Lenguajes Programación/JavaScript/02 Tipos de datos.md",
-    "Lenguajes Programación/JavaScript/01 Variables.md",
     "Lenguajes Programación/Ionic",
     "Clase",
     "Excalidraw"
