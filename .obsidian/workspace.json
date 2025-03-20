@@ -8,17 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca82c67793690a1e",
+            "id": "e7dacef99419b24d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/git/git.md",
+                "file": "Clase/20.03.Ju.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "20.03.Ju"
+            }
+          },
+          {
+            "id": "68dbf1541dbd4378",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/git reset-soft.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "git reset-soft"
             }
           }
         ]
@@ -180,31 +192,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ca82c67793690a1e",
+  "active": "e7dacef99419b24d",
   "lastOpenFiles": [
+    "Excalidraw/git reset-soft.md",
+    "Excalidraw/git reset-soft.svg",
+    "Pasted Image 20250320142918_271.png",
+    "Pasted Image 20250320142255_889.png",
+    "Pasted Image 20250320142205_910.png",
+    "Excalidraw/git -am.svg",
+    "Clase/20.03.Ju.md",
+    "Excalidraw/Draw 25-03-20 13.57.06.excalidraw.svg",
+    "Clase/git/git.md",
+    "Excalidraw/visualizar deltas.md",
+    "Excalidraw/svg/visualizar deltas.svg",
+    "Excalidraw/Draw 25-03-20 12.41.39.excalidraw.svg",
+    "Pasted Image 20250320124244_418.png",
+    "Excalidraw/Draw 25-03-20 10.34.49.excalidraw.md",
+    "Excalidraw/Draw 25-03-20 10.34.49.excalidraw.svg",
+    "pdf/Guía_rápida_UF1843_espanol.pdf",
+    "Application_Layer.png.crdownload",
     "Clase/19.03.Mi.md",
     "Clase/18.03.Ma.md",
-    "Clase/git/git.md",
     "Clase/17.03.Lu.md",
     "Clase/14.03.Vi.md",
     "Clase/git",
-    "Clase/20.03.Ju.md",
-    "pdf/Guía_rápida_UF1843_espanol.pdf",
     "Excalidraw/svg/Dónde está Git.md",
-    "Excalidraw/svg/arrayVacio.svg",
-    "Excalidraw/svg/arrayNombre.svg",
-    "Excalidraw/svg/Ruta con espacios 1.svg",
     "Excalidraw/contextoMensaje.md",
-    "Excalidraw/svg/rutas relativas.svg",
     "Excalidraw/rutas relativas.md",
     "Excalidraw/objetoNombre.md",
-    "Excalidraw/Dónde está Git.svg",
-    "Excalidraw/svg/Dónde está Git.svg",
-    "Excalidraw/svg/relaciónFrontBack.svg",
     "Excalidraw/relaciónFrontBack.md",
-    "Excalidraw/Draw 25-03-18 10.39.27.excalidraw.svg",
-    "Excalidraw/svg/contextoMensaje.svg",
-    "Excalidraw/svg/git merge ort.svg",
     "Excalidraw/gitMerge.md",
     "Guía_rápida_UF1843_espanol.pdf",
     "pdf",
@@ -219,10 +235,6 @@
     "Lenguajes Programación/JavaScript/Operadores.md",
     "Lenguajes Programación/JavaScript/Switch.md",
     "Lenguajes Programación/JavaScript/While.md",
-    "Lenguajes Programación/JavaScript/Bucle DO-WHILE.md",
-    "Lenguajes Programación/JavaScript/Bucle FOR.md",
-    "Lenguajes Programación/JavaScript/03 Conversión de tipos.md",
-    "Lenguajes Programación/JavaScript/02 Tipos de datos.md",
     "Lenguajes Programación/Ionic",
     "Clase",
     "Excalidraw"
