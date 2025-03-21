@@ -6,55 +6,71 @@
       {
         "id": "d8ac722ca9cedefd",
         "type": "tabs",
-        "dimension": 44.20374707259953,
         "children": [
           {
-            "id": "68dbf1541dbd4378",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/Draw 25-03-20 13.57.06.excalidraw.svg"
-              },
-              "icon": "lucide-image",
-              "title": "Draw 25-03-20 13.57.06.excalidraw"
-            }
-          },
-          {
-            "id": "418725cdc7e2e78b",
+            "id": "e538a2292ffa54b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/Accesibilidad & usabilidad.md",
+                "file": "Clase/21.03.Vi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accesibilidad & usabilidad"
+              "title": "21.03.Vi"
+            }
+          },
+          {
+            "id": "4d6bb83f4769115d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Draw 25-03-21 14.56.01.excalidraw.svg"
+              },
+              "icon": "lucide-image",
+              "title": "Draw 25-03-21 14.56.01.excalidraw"
+            }
+          },
+          {
+            "id": "6343cf7f52038fe1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/fast-forward.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fast-forward"
+            }
+          },
+          {
+            "id": "6fe98c8ee5604f92",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/automático.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "automático"
+            }
+          },
+          {
+            "id": "046fe85f5e27e690",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Draw 25-03-21 12.20.24.excalidraw.svg"
+              },
+              "icon": "lucide-image",
+              "title": "Draw 25-03-21 12.20.24.excalidraw"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "4ab79283fa23a467",
-        "type": "tabs",
-        "dimension": 55.79625292740047,
-        "children": [
-          {
-            "id": "4058839f9c987842",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/Guía_rápida_UF1843_espanol.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Guía_rápida_UF1843_espanol"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -111,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.51103591918945,
-    "collapsed": true
+    "width": 213.51103591918945
   },
   "right": {
     "id": "1728f24bac4b9c49",
@@ -214,26 +229,33 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "418725cdc7e2e78b",
+  "active": "4d6bb83f4769115d",
   "lastOpenFiles": [
-    "pdf/Guía_rápida_UF1843_espanol.pdf",
-    "Clase/Accesibilidad & usabilidad.md",
+    "Excalidraw/Draw 25-03-21 14.56.01.excalidraw.md",
+    "Excalidraw/Draw 25-03-21 12.20.24.excalidraw.svg",
+    "Excalidraw/Draw 25-03-21 14.56.01.excalidraw.svg",
+    "Pasted Image 20250321145732_402.png",
+    "Clase/21.03.Vi.md",
+    "Pasted image 20250321145550.png",
     "Clase/git/git.md",
+    "Excalidraw/Draw 25-03-21 12.18.39.excalidraw.svg",
+    "Excalidraw/Draw 25-03-21 12.15.41.excalidraw.svg",
+    "Excalidraw/automático.svg",
     "Excalidraw/Draw 25-03-20 13.57.06.excalidraw.svg",
-    "Excalidraw/svg/Draw 25-03-20 12.41.39.excalidraw.svg",
-    "Excalidraw/Draw 25-03-20 10.34.49.excalidraw.svg",
+    "Excalidraw/Distintos index.svg",
+    "Excalidraw/automático.md",
+    "Excalidraw/Draw 25-03-21 12.20.24.excalidraw.md",
+    "Excalidraw/fast-forward.md",
+    "Excalidraw/fast-forward.svg",
+    "Excalidraw/mismo index.md",
+    "Excalidraw/visualizar deltas.md",
+    "Excalidraw/Draw 25-03-21 10.59.26.excalidraw.md",
+    "Clase/Accesibilidad & usabilidad.md",
+    "Clase/20.03.Ju.md",
+    "pdf/Guía_rápida_UF1843_espanol.pdf",
     "Excalidraw/Draw 25-03-20 10.34.49.excalidraw.md",
-    "Excalidraw/Application_Layer.png",
-    "Excalidraw/svg/Ruta con espacios 1.svg",
-    "Excalidraw/svg/rutas relativas.svg",
-    "Excalidraw/svg/visualizar deltas.svg",
-    "Excalidraw/svg/1741540830587.jpeg",
-    "Excalidraw/svg/arrayNombre.svg",
-    "Excalidraw/svg/arrayVacio.svg",
     "Excalidraw/git reset-soft.md",
     "Guía_rápida_UF1843_espanol.pdf",
-    "Clase/20.03.Ju.md",
-    "Excalidraw/visualizar deltas.md",
     "Application_Layer.png.crdownload",
     "Clase/19.03.Mi.md",
     "Clase/18.03.Ma.md",
@@ -250,13 +272,6 @@
     "Espacio de trabajo.canvas",
     "Lenguajes Programación/JavaScript/split().md",
     "Lenguajes Programación/JavaScript/RegExp.md",
-    "Lenguajes Programación/JavaScript/map().md",
-    "Lenguajes Programación/JavaScript/06 Métodos.md",
-    "Lenguajes Programación/JavaScript/04 Funciones.md",
-    "Lenguajes Programación/JavaScript/Formulario HTML_JS.md",
-    "Lenguajes Programación/JavaScript/Objeto_Clase.md",
-    "Lenguajes Programación/JavaScript/Operadores.md",
-    "Lenguajes Programación/JavaScript/Switch.md",
     "Lenguajes Programación/Ionic",
     "Clase",
     "Excalidraw"

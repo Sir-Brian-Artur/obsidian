@@ -15,20 +15,13 @@
 	- intro  
 
 - `git add .` : le da seguimiento a ese archivo
-
 - `git commit -m "Initial commit"` : confirmación de los cambios
-
 - `git config --global user.email "email"`
-
 - `git config --global user.name "NickName"`
-
 - `git config --list` : para ver nuestros datos
 	- q : salir
-
 - `git commit -m "Update file"` : Para actualización de archivo
-
 - `git reset --soft b6ed4525` : para volver a una versión anterior, sin destrucción
-
 - `git reset --hard b6ed4525` : para volver a una versión anterior, con destrucción *NO HACER NUNCA!!*
 
 ![alt text](git.svg)
@@ -126,6 +119,7 @@ Para utilizar el Notepad++ como editor por defecto con Git Bash. Cuando usemos `
 
 ![[rutas relativas.svg]]
 
+`git branch --move nombre-antiguo nombre-nuevo` Renombrar rama
 `git checkou -b "nuevaRama"` Para crear una nueva rama y movernos a esa.
 `git branch "nuevaRama"` Para crear nueva rama sin cambiarnos de rama.
 `git branch` Para ver cuantas ramas hay
