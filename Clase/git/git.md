@@ -149,3 +149,124 @@ Parra GIT, ese repositorio/carpeta que esté vacío, no lo va a tener en cuenta;
 `git commit --amend -m "add << ignorar carpeta/ >> rule -> .gitignore"`
  
 [Sourcetree](https://www.sourcetreeapp.com/) Alternativa a GitHub Desktop
+
+
+Si estamos modificando el nombre de un archivo, lo que va a pasar es que primero crea una copia de ese con el nombre deseado. Luego elimina el archivo antiguo.
+
+![[visualizar deltas.svg]]
+
+`git diff` para ver los cambios que se han hecho sin haber comiteado aún.
+
+> [!tip]
+> Debemos ir comiteando paso por paso para llevar un orden. Como un banco de trabajo, poder encontrar fácilmente cada uno de los cambios.
+
+`git commit -am "mensaje"` Fusión entre *git add* y *git commit*. No se puede emplear si el archivo no está traqueado.
+
+![[git reset-soft.svg]]
+
+`git reset --mixed ec225ae` No es aconsejable porque vamos a modificar sin querer, archivos con los que estamos trabajando actualmente.
+
+![[Draw 25-03-20 13.57.06.excalidraw.svg]]
+## Git Commands
+
+### 1. Git configuration
+
+These commands are used for setting up configuration values like first name, last name, and email ID across all local repositories. Using these commands you are introducing yourself to Git.
+
+| **Commands**                                        | **Description**                                                                                                           |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| git config –global user.name “[firstname lastname]” | Set the global configuration for the Git user’s name.                                                                     |
+| git config –global user.email “[valid-email]”       | Set the global configuration for the Git email.                                                                           |
+| git config –global color.ui auto                    | Enable automatic coloring for Git output, i.e., Git will automatically colorize its output when it’s going to a terminal. |
+| git config –list                                    | Displays the current configuration settings for Git on your system.                                                       |
+
+### **2. Setup and Initialization**
+
+These commands are used to initialize a repository which means setting up a new project or cloning an existing repository.
+
+| **Commands**    | **Description**                                                   |
+| --------------- | ----------------------------------------------------------------- |
+| git init        | Initialize an existing directory.                                 |
+| git clone [url] | Retrieve the repository from the hosted location through the URL. |
+
+### **3. Staging and Snapshots**
+
+These commands will help you with all the operations done in the Git Staging Area, i.e., before you commit the changes to the branch.
+
+| **Commands**                                     | **Description**                                                            |
+| ------------------------------------------------ | -------------------------------------------------------------------------- |
+| git status                                       | To know the status                                                         |
+| git diff                                         | Displays what has been changed but not staged yet.                         |
+| git add [file]                                   | To add a file                                                              |
+| git add [filename] [2nd filename] [3rd filename] | To add multiple files                                                      |
+| git reset [file]                                 | Used to unstage a file while keeping the changes in the working directory. |
+| git commit -m “[descriptive message]”            | Commit your staged content                                                 |
+| git diff –staged                                 | Displays what has been staged but not committed yet.                       |
+| git commit –amend -m “new_message”               | To amend the last commit or the last message                               |
+
+### **4. Branch and Merge**
+
+These commands will help you while developing a new feature in an isolated environment and later on, after proper review and testing merging it with the original codebase.
+
+| **Commands**                                       | **Description**                            |
+| -------------------------------------------------- | ------------------------------------------ |
+| git branch                                         | To list branches                           |
+| git branch -a                                      | To list all the branches                   |
+| git branch [branch name]                           | To create a new branch                     |
+| git branch -d [branch name]                        | To delete a branch                         |
+| git push origin –delete [branchName]               | To delete a remote branch                  |
+| git checkout -b [branch name]                      | To create and switch to a new branch       |
+| git checkout -b [branch name] origin/[branch name] | To clone and switch to a remote branch     |
+| git checkout [branch name]                         | To switch to a branch                      |
+| git checkout –                                     | To switch to the branch last checked out   |
+| git checkout — [file-name.txt]                     | Used to discard any changes made to a file |
+| git merge [branch name]                            | To merge a branch into an active branch    |
+
+### **5. Inspect and Compare**
+
+These commands are used to inspect the logs that contain all the commit history. This can also help you with the differences between the branches.
+
+|   |   |
+|---|---|
+|**Commands**|**Description**|
+|git log|Show the commit history|
+|git diff branchB…branchA|Show the difference between branchA and branchB|
+|git log branchB..branchA|Show the commits on branchA that are not there on branchB|
+|git log –follow [file]|Show the commits that changed the file|
+|git show [SHA]|Show any object in a human-readable format|
+
+### **6. Share and Update**
+
+These commands are used for fetching fresh updates from the remote repository and accordingly updating the local repository. With the help of these commands, you will also be able to push new code to the remote repository from the local repository. Fetching updates from another repository and updating the local repositories.
+
+| **Commands**                                                                    | **Description**                                                                           |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| git push origin [branch name]                                                   | To push a branch to a remote repository                                                   |
+| git push -u origin [branch name]                                                | To push the changes made to a remote repository (-u remember the branch for the next use) |
+| git push origin –delete [branch name]                                           | To delete a remote branch                                                                 |
+| git pull                                                                        | To update a local repository to the newest commit                                         |
+| git pull origin [branch name]                                                   | To pull the changes from a remote repository                                              |
+| git remote add origin ssh://git@github.com/[username]/[repository-name].git     | To add a remote repository                                                                |
+| git remote set-url origin ssh://git@github.com/[username]/[repository-name].git | To set a repository’s origin branch to SSH                                                |
+| git fetch [alias]                                                               | Fetch all the branches from that hosted remote repository.                                |
+
+### **7. Rewrite History**
+
+These commands are used to rewrite branches, update  commits, and clear history.
+
+| **Commands**             | **Description**                                                |
+| ------------------------ | -------------------------------------------------------------- |
+| git rebase [branch]      | Used to integrate changes from one branch into another branch. |
+| git reset –hard [commit] | Used to reset the current branch to a specific commit          |
+
+### **8. Temporary Commit**
+
+These commands are used to create a temporary snapshot of your work using a commit. This could be useful in various scenarios, such as experimenting with changes or working on a feature that is not ready to be permanently committed to the version history.
+
+| **Commands**    | **Description**                                      |
+| --------------- | ---------------------------------------------------- |
+| git stash       | To stash the changes in a dirty working directory    |
+| git stash pop   | Write working from the top of the stash stack.       |
+| git stash list  | List the stack-order of stashed file changes.        |
+| git stash drop  | Discard the changes from the top of the stash stack. |
+| git stash clear | To remove all the stashed entries                    |
