@@ -264,3 +264,26 @@ These commands are used to create a temporary snapshot of your work using a comm
 | git stash list  | List the stack-order of stashed file changes.        |
 | git stash drop  | Discard the changes from the top of the stash stack. |
 | git stash clear | To remove all the stashed entries                    |
+
+
+Si tuviesemos que crear 2 versiones de la misma página web pero con distintos estilos CSS.
+![[distintos index.svg]]
+
+ Si tuviesemos el mismo index pero distintos style.
+---
+![[mismo index|400]]
+
+
+> [!importante]
+> Cuando estemos renombrando un archivo. A la hora de comitear, tenemos que agregar tanto el "borrado" como la "creación" de ese archivo.
+
+>[!nota]
+> Pese a que tengamos estilos distintos, sus nombres deben ser iguales. Pues en caso de que sean distintos, el código de Index también sería distinto y no conectaría con los estilos.
+
+![[Draw 25-03-21 12.20.24.excalidraw.svg]]
+
+`git branch -m "nombre"` Para renombrar la rama en la que estamos
+
+![[Pasted image 20250321145550.png]]
+
+![[Draw 25-03-21 12.20.24.excalidraw]]
