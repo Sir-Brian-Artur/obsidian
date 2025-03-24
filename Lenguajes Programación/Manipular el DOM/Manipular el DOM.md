@@ -1,21 +1,9 @@
 # Qué es el DOM?
 
 Representación de los objetos (elementos) que conforman la estructura de un documento en la web.
+![[Draw 25-03-24 09.03.57.excalidraw]]
 
-```mermaid
-graph TD
-    Document[document] --> HTML[html]
-    HTML --> Head
-    Head --> Title
-    Title --> Ejemplo
-    HTML --> Body
-    Body --> H1
-    H1 --> JavaScript
-    Body --> P
-    P --> Hola_mundo
-```
-
-![[Pasted image 20250323100742.png|400]]
+![[Pasted image 20250323100742.png|280]]
 
 Representar el HTML a través del DOM nos permite **acceder** a sus elementos y **manipularlos**.
 
