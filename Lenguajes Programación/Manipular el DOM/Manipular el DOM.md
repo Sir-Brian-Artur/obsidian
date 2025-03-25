@@ -36,4 +36,3 @@ Ya que, tanto el texto, como los comentarios, pueden ser nodos del DOM. No sólo
 
 ![[Drawing 2025-03-24 16.48.31.excalidraw|500]]
 
-![[Drawing 2025-03-24 17.35.48.excalidraw|transparent]]
