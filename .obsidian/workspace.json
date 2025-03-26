@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69c627cd93be056f",
+        "id": "2868ca26173b181d",
         "type": "tabs",
         "children": [
           {
-            "id": "4726488d6e4976fb",
+            "id": "09700736943dfd70",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "26.03.Mi"
-            }
-          },
-          {
-            "id": "875514be4df32405",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-26 09.55.55.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-26 09.55.55.excalidraw"
             }
           }
         ]
@@ -181,17 +169,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4726488d6e4976fb",
+  "active": "09700736943dfd70",
   "lastOpenFiles": [
+    "Clase/25.03.Ma.md",
+    "Clase/26.03.Mi.md",
+    "Excalidraw/Drawing 2025-03-26 09.55.55.excalidraw.md",
     "galeria_familiar/assets/img/cuñada.webp",
     "galeria_familiar/assets/img/sobirna1.webp",
     "galeria_familiar/assets/img/sobrino2.webp",
     "Sin título.md",
     "Pasted image 20250323100742.png",
     "Pasted Image 20250323182704_228.png",
-    "Clase/25.03.Ma.md",
-    "Clase/26.03.Mi.md",
-    "Excalidraw/Drawing 2025-03-26 09.55.55.excalidraw.md",
     "Excalidraw/Drawing 2025-03-26 09.16.25.excalidraw.md",
     "Excalidraw/git reset-soft.svg",
     "Excalidraw/Draw 25-03-25 13.42.13.excalidraw.md",
@@ -205,7 +193,6 @@
     "Excalidraw/Draw 25-03-25 12.35.59.excalidraw.svg",
     "Excalidraw/Draw 25-03-25 12.53.13.excalidraw.svg",
     "Excalidraw/Drawing 2025-03-24 16.48.31.excalidraw.md",
-    "Excalidraw/Draw 25-03-25 13.42.13.excalidraw.svg",
     "Excalidraw/Draw 25-03-25 14.46.12.excalidraw.md",
     "Clase/24.03.Lu.md",
     "Excalidraw/Draw 25-03-24 14.15.05.excalidraw.md",
