@@ -11,12 +11,26 @@
             "id": "4726488d6e4976fb",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clase/26.03.Mi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26.03.Mi"
+            }
+          },
+          {
+            "id": "875514be4df32405",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-24 16.48.31.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-03-26 09.55.55.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-24 16.48.31.excalidraw"
+              "title": "Drawing 2025-03-26 09.55.55.excalidraw"
             }
           }
         ]
@@ -169,32 +183,37 @@
   },
   "active": "4726488d6e4976fb",
   "lastOpenFiles": [
-    "Excalidraw/Draw 25-03-25 13.42.13.excalidraw.svg",
+    "galeria_familiar/assets/img/cuñada.webp",
+    "galeria_familiar/assets/img/sobirna1.webp",
+    "galeria_familiar/assets/img/sobrino2.webp",
+    "Sin título.md",
+    "Pasted image 20250323100742.png",
+    "Pasted Image 20250323182704_228.png",
     "Clase/25.03.Ma.md",
-    "Excalidraw/Draw 25-03-25 14.46.12.excalidraw.svg",
-    "Excalidraw/Draw 25-03-25 14.46.12.excalidraw.md",
+    "Clase/26.03.Mi.md",
+    "Excalidraw/Drawing 2025-03-26 09.55.55.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-26 09.16.25.excalidraw.md",
+    "Excalidraw/git reset-soft.svg",
     "Excalidraw/Draw 25-03-25 13.42.13.excalidraw.md",
     "Excalidraw/Draw 25-03-25 13.34.51.excalidraw.md",
     "Excalidraw/Draw 25-03-25 13.34.51.excalidraw.svg",
     "Excalidraw/Draw 25-03-25 12.53.13.excalidraw.md",
-    "Excalidraw/Draw 25-03-25 12.35.59.excalidraw.md",
-    "Excalidraw/Draw 25-03-25 12.53.13.excalidraw.svg",
-    "Excalidraw/Draw 25-03-25 12.35.59.excalidraw.svg",
-    "Excalidraw/Draw 25-03-25 10.37.12.excalidraw.md",
     "Excalidraw/Draw 25-03-25 09.49.22.excalidraw.md",
     "Excalidraw/Draw 25-03-25 09.49.22.excalidraw.svg",
+    "Excalidraw/Draw 25-03-25 10.37.12.excalidraw.md",
+    "Excalidraw/Draw 25-03-25 12.35.59.excalidraw.md",
+    "Excalidraw/Draw 25-03-25 12.35.59.excalidraw.svg",
+    "Excalidraw/Draw 25-03-25 12.53.13.excalidraw.svg",
+    "Excalidraw/Drawing 2025-03-24 16.48.31.excalidraw.md",
+    "Excalidraw/Draw 25-03-25 13.42.13.excalidraw.svg",
+    "Excalidraw/Draw 25-03-25 14.46.12.excalidraw.md",
     "Clase/24.03.Lu.md",
-    "Sin título.md",
     "Excalidraw/Draw 25-03-24 14.15.05.excalidraw.md",
-    "Excalidraw/Draw 25-03-24 14.15.05.excalidraw.svg",
     "Excalidraw/Draw 25-03-24 13.14.32.excalidraw.md",
-    "Excalidraw/Draw 25-03-24 13.14.32.excalidraw.svg",
     "Excalidraw/Draw 25-03-24 12.27.04.excalidraw.md",
     "Excalidraw/Draw 25-03-24 11.57.27.excalidraw.md",
-    "Excalidraw/Draw 25-03-24 12.27.04.excalidraw.svg",
     "Lenguajes Programación/Manipular el DOM/Excalidraw/Draw 25-03-24 09.03.57.excalidraw.md",
     "Excalidraw/Draw 25-03-24 09.32.00.excalidraw.md",
-    "Excalidraw/Draw 25-03-24 11.57.27.excalidraw.svg",
     "Lenguajes Programación/Manipular el DOM/Manipular el DOM.md",
     "Lenguajes Programación/Accesibilidad & usabilidad.md",
     "Lenguajes Programación/Manipular el DOM/Excalidraw/Draw 25-03-23 18.23.29.excalidraw.md",
@@ -210,10 +229,6 @@
     "galeria_familiar/assets/img/miniaturas",
     "Lenguajes Programación/Manipular el DOM/Excalidraw/Draw 25-03-23 18.38.57.excalidraw.md",
     "Lenguajes Programación/Manipular el DOM/Excalidraw/Draw 25-03-23 09.28.29.excalidraw.md",
-    "Lenguajes Programación/Draw 25-03-23 09.24.24.excalidraw.md",
-    "Lenguajes Programación/git/git.md",
-    "Clase/21.03.Vi.md",
-    "Excalidraw/mismo index.md",
     "Espacio de trabajo.canvas"
   ]
 }
